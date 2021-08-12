@@ -4,7 +4,7 @@ import { Container, Header } from "semantic-ui-react";
 
 import pkg from 'semantic-ui-react/package.json'
 import User from "./User";
-import AlertForm from "./AlertForm";
+//import AlertForm from "./AlertForm";
 
 const Page = ({ children }) => (
   <Container text style={{ margin: 40 }}>
